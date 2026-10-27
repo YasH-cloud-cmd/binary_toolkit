@@ -1,0 +1,4 @@
+src/main
+src/run
+*.o
+binary_toolkit
